@@ -21,6 +21,8 @@
 <a href="https://twitter.com/FortunePeter_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/FortunePeter_x" height="30" width="40" /></a>
 </p>
 
+<a href="https://wakatime.com/badge/user/018e95c2-e59b-4476-8d7c-80ca34f9b0b7/project/b1c9e7ae-4eba-42c0-81b3-46d454709f90"><img src="https://wakatime.com/badge/user/018e95c2-e59b-4476-8d7c-80ca34f9b0b7/project/b1c9e7ae-4eba-42c0-81b3-46d454709f90.svg" alt="wakatime"></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
