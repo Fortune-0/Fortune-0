@@ -3,7 +3,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif)
 <h1 align="center">Hi 👋, I'm Fortune Peter.....</h1>
 <h3 align="center">A passionate Full Stack Software Engineer</h3>
-<img align="right" alt="Coding" Width="500" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47u673bkf5n1qn7pib8a9ff2iul30nxt7h57w1iucq&ep=v1_gifs_search&rid=200w.webp&ct=g">
+<img align="right" alt="Coding" Width="500" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fortune-0&label=Profile%20views&color=0e75b6&style=flat" alt="fortune-0" /> </p>
 
